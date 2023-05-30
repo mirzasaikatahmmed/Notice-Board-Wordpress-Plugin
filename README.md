@@ -53,8 +53,6 @@ Usage
 4. Choose the type of Notice Display(Static or Scroll). The scroll type will display a scrolling list of notices.
 5. Choose the scroll direction of Notice Display(Upwards or Downwards), and save the widget.
 
->![Notice board widget](https://lh5.googleusercontent.com/-vWTdirxPQkU/VJfG3vn_1fI/AAAAAAAAANg/4mvBCw2rVyU/s0/Notice-Board-Widget.png "Notice-Board-Widget.png")
-
 #### How to Use the Shortcode
 1. Navigate to the post or page you would like to add the notice table to
 2. Type the shortcode `[notice-board]`
@@ -76,7 +74,7 @@ Frequently Asked Questions
 Changelog
 --------------
 
-    = 1.0 =
+    = 1.2 =
     * Initial release of the plugin
 
 #
