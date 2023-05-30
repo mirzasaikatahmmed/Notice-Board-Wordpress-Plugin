@@ -6,7 +6,7 @@
 	Plugin URI: https://mirzasaikatahmmed.info/
 	Author: Mirza Saikat Ahmmed
 	Author URI: https://mirzasaikatahmmed.info/
-	Version: 1.0
+	Version: 1.2
 	License: GPL v3
 	Text Domain: msnb_notice_board
 	Domain Path: 
